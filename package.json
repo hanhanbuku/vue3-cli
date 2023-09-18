@@ -11,6 +11,10 @@
     "release-patch": "standard-version --release-as patch",
     "publish": "npm publish"
   },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
+  },
   "bin": {
     "vue3cli": "./bin/index.js"
   },

@@ -16,7 +16,6 @@ program
         const cwd = process.cwd();
         // 目标目录也就是要创建的目录
         const targetDir = path.join(cwd, name);
-        console.log(targetDir,33333)
         // 初始化下载器
         const creator = new Creator(name, targetDir);
         creator.create()
