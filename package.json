@@ -1,6 +1,6 @@
 {
   "name": "@itachi3/vue-cli",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "vue3脚手架，用于拉取模板",
   "main": "index.js",
   "type": "module",

@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.0.3](https://github.com/hanhanbuku/vue3-cli/compare/v1.0.2...v1.0.3) (2023-09-18)
+
+
+### Features
+
+* 清除打印 ([f6bda52](https://github.com/hanhanbuku/vue3-cli/commit/f6bda52179973989c4d26ddfb7726cf16f6ddd7a))
+
 ### [1.0.2](https://github.com/hanhanbuku/vue3-cli/compare/v1.0.1...v1.0.2) (2023-09-15)
 
 
