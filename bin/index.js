@@ -27,11 +27,8 @@ program.on('--help',()=>{
     console.log();
 })
 
-program.on('-v',()=>{
-    console.log();
-    console.log('1.0.0');
-    console.log();
-})
+program.version('1.0.5', '-v, --version')
+
 
 
 

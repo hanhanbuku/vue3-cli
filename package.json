@@ -29,5 +29,6 @@
     "inquirer": "^9.2.11",
     "ora": "^7.0.1",
     "standard-version": "^9.5.0"
-  }
+  },
+ "engines" : { "node" : ">=16.0.0" }
 }
