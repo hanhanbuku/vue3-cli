@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.0.6](https://github.com/hanhanbuku/vue3-cli/compare/v1.0.5...v1.0.6) (2023-11-03)
+
+
+### Features
+
+* 修改readme ([18a78cb](https://github.com/hanhanbuku/vue3-cli/commit/18a78cbe0217ae212d3e016a7243ccfcb051db56))
+* 增加node版本要求 ([d117f17](https://github.com/hanhanbuku/vue3-cli/commit/d117f1762c9d95edfdc92e7ac2fbdfdb16fdbdcc))
+
 ### [1.0.5](https://github.com/hanhanbuku/vue3-cli/compare/v1.0.4...v1.0.5) (2023-10-31)
 
 ### [1.0.4](https://github.com/hanhanbuku/vue3-cli/compare/v1.0.3...v1.0.4) (2023-09-18)
