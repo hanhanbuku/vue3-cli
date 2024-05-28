@@ -9,3 +9,4 @@ npm i @itachi3/vue-cli -g
 ```shell
 vue3cli create myApp
 ```
+
